@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "bing-cn-mcp-server": {
+      "type": "http",
+      "url": "https://mcp.api-inference.modelscope.net/d066853457f64a/mcp"
+    },
+    "china-stock-mcp": {
+      "type": "http",
+      "url": "https://mcp.api-inference.modelscope.net/f106b5d15ee54e/mcp"
+    },
+    "MemoryOperatingSystem": {
+      "type": "http",
+      "url": "https://mcp.api-inference.modelscope.net/50fa8aee589243/mcp"
+    },
+    "GaodeMapPro": {
+      "type": "http",
+      "url": "https://mcp.api-inference.modelscope.net/abe33742241d49/mcp"
+    }
+  }
+}
