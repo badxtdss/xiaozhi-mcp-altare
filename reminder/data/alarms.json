@@ -1,0 +1,37 @@
+[
+  {
+    "id": "139ea55d-1a8a-4fb8-a149-f1847c81f89f",
+    "time": "2026-02-01T11:53:42.781539",
+    "description": "测试闹钟",
+    "created_at": "2026-02-01T11:51:42.781587",
+    "status": "active"
+  },
+  {
+    "id": "4323ce2a-5de8-4a7d-979a-c9295f420932",
+    "time": "2026-02-01T12:58:28.486336",
+    "description": "测试闹钟",
+    "created_at": "2026-02-01T12:56:28.486377",
+    "status": "active"
+  },
+  {
+    "id": "dcebae06-8e0a-4e72-add8-4840bad72200",
+    "time": "2026-02-02T01:40:00",
+    "description": "用户添加的闹钟",
+    "created_at": "2026-02-01T13:32:28.663929",
+    "status": "active"
+  },
+  {
+    "id": "3ff82276-fbe2-4fb2-9194-99c1a04dcbd6",
+    "time": "2026-02-03T10:25:00",
+    "description": "用户添加的闹钟",
+    "created_at": "2026-02-03T10:22:02.263489",
+    "status": "active"
+  },
+  {
+    "id": "f7bd8dde-28f1-44ad-94d0-0ea8ba3d18ed",
+    "time": "2026-02-03T11:30:00",
+    "description": "用户设定的闹钟",
+    "created_at": "2026-02-03T11:26:01.119678",
+    "status": "active"
+  }
+]
